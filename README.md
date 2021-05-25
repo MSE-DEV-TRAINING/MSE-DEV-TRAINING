@@ -1,4 +1,4 @@
-# MSE WEB DEV TRAINING
+# MSE WEB DEV TRAINING - Click on a Project to Brgin
 
 [![Project 1](1.png)](https://github.com/MSE-DEV-TRAINING/Training-Project-1)<br>
 
